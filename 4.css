@@ -1,0 +1,27 @@
+form{
+    background: whitesmoke;
+    width: 42%;
+}
+h1{
+	color: red;
+	text-decoration-style: bold;
+	text-align: center;
+}
+legend{
+    color: black;
+    font-size: 50;
+
+}
+ fieldset{
+     color: black;
+     flex: 100px;
+     width: 40%
+  
+ }
+  legend{
+      color:white;
+      font-size: larger;
+      height: auto;
+  }
+  
+
